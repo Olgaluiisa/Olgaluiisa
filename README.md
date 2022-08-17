@@ -2,7 +2,6 @@
 
 - 🔭 Estudante de Desenvolvimento Front End
 - 🌱 atualmente estou aprendendo Testes, TypeScript, JSON Server e Chacka UI
-- 😄 Pronouns: ela/dela
 
 <div align="left">
   <a href="https://github.com/Olgaluiisa">
