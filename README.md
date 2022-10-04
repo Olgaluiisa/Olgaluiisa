@@ -1,7 +1,7 @@
 ### Olá! Me chamo Olga Luisa 👋
 
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas 
-- 🌱 atualmente estou aprendendo Testes, TypeScript, JSON Server e Chakra UI
+- 🌱 atualmente estou aprendendo Testes, TypeScript, Node Js
 
 <div align="left">
   <a href="https://github.com/Olgaluiisa">
