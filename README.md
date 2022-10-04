@@ -1,6 +1,6 @@
 ### Olá! Me chamo Olga Luisa 👋
 
-- 🔭 Estudante de Desenvolvimento Front End
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 atualmente estou aprendendo Testes, TypeScript, JSON Server e Chakra UI
 
 <div align="left">
