@@ -3,9 +3,10 @@
 - 🔭 Estudante de Análise e Desenvolvimento de Sistemas 
 - 🌱 atualmente estou aprendendo Testes, TypeScript, Node Js
 
-<div align="left">
+<div align="center">  
   <a href="https://github.com/Olgaluiisa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Olgaluiisa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Olgaluiisa&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <h3>Tecnologias que uso no meu dia</h3>
 
